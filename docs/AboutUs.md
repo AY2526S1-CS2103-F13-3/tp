@@ -20,6 +20,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[portfolio](NONE)]
 
 * Role: Communications Manager
+* Responsibilities: Dev
 
 ### Jane Doe
 
