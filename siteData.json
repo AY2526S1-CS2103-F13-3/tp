@@ -39,7 +39,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "customer-relation-book-developer-guide": "Customer Relation Book Developer Guide",
+        "customerrelationbook-developer-guide": "CustomerRelationBook Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -54,8 +54,6 @@
         "find-feature-with-multiple-search-modes": "Find feature with multiple search modes",
         "sort-feature": "Sort feature",
         "command-box-history-feature": "Command box history feature",
-        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -76,7 +74,11 @@
         "adding-or-editing-notes": "Adding or editing notes",
         "clearing-all-entries": "Clearing all entries",
         "command-history-navigation": "Command history navigation",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "appendix-planned-enhancements": "Appendix: Planned enhancements",
+        "better-bi-directional-scrolling-for-typists": "Better bi-directional scrolling for typists",
+        "undo-redo-feature": "Undo/redo feature",
+        "data-archiving": "Data archiving"
       },
       "headingKeywords": {}
     },
