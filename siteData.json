@@ -76,9 +76,11 @@
         "command-history-navigation": "Command history navigation",
         "saving-data": "Saving data",
         "appendix-planned-enhancements": "Appendix: Planned enhancements",
+        "scrollbar-support-for-individual-contact-cards": "Scrollbar support for individual contact cards",
+        "better-support-for-special-characters-e-g-or-non-utf-8-characters-in-name-and-phone-number": "Better support for special characters (e.g. /+, or non UTF-8 characters) in name and phone number",
         "better-bi-directional-scrolling-for-typists": "Better bi-directional scrolling for typists",
-        "undo-redo-feature": "Undo/redo feature",
-        "data-archiving": "Data archiving"
+        "data-archiving": "Data archiving",
+        "undo-redo-feature": "Undo/redo feature"
       },
       "headingKeywords": {}
     },
